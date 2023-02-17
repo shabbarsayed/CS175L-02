@@ -1,9 +1,10 @@
-import math
-import turtle
-
 #CS175L-02
 #Shabbar Sayed
 #stopsign.py
+
+import math
+import turtle
+
 
 WINDOW_WIDTH = 400
 WINDOW_HEIGHT = 400
